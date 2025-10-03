@@ -680,6 +680,10 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Expert Delphi](https://www.packtpub.com/free-ebooks/expert-delphi) - Paweł Głowacki (Packt account *required*)
 * [Modern Object Pascal Introduction for Programmers](https://github.com/michaliskambi/modern-pascal-introduction) - Michalis Kamburelis ([AsciiDoc](https://github.com/michaliskambi/modern-pascal-introduction/blob/master/modern_pascal_introduction.adoc#logical-relational-and-bit-wise-operators), [HTML](https://castle-engine.io/modern_pascal_introduction.html), [PDF](https://castle-engine.io/modern_pascal_introduction.pdf))
 
+### Docker
+
+* [Introduction to Docker](https://github.com/bobbyiliev/introduction-to-docker-ebook) - Bobby Iliev (Markdown, PDF, EPUB)
+* [The Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/) - Farhan Hasin Chowdhury (HTML)
 
 ### DTrace
 
@@ -1432,6 +1436,9 @@ Books on general-purpose programming that don't focus on a specific language are
 * [TeX by Topic, A TeXnician's Reference](http://eijkhout.net/texbytopic/texbytopic.html) - Victor Eijkhout
 * [TeX for the Impatient](https://www.gnu.org/software/teximpatient/) - Paul Abrahams, Kathryn Hargreaves, Karl Berry
 
+### Kubernetes
+
+* [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/) - Farhan Hasin Chowdhury (HTML)
 
 ### Language Agnostic
 
@@ -2505,6 +2512,10 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Teradata Books](http://www.info.teradata.com)
 
+
+### Terraform
+
+* [Terraform Tutorials](https://developer.hashicorp.com/terraform/tutorials) - HashiCorp (HTML)
 
 ### Tizen
 
